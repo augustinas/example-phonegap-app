@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "net.augustinas.employeedirectory"
+        versionCode = "1"
+        version     = "0.1.0">
+
+  <name>Employee Directory</name>
+
+  <description>
+    Basic PhoneGap example. Creates an employee directory
+  </description>
+
+  <author href="https://github.com/augustinas" email="augustinas.markevicius@gmail.com">
+    Augustinas Markevicius
+  </author>
+
+  <feature name="http://api.phonegap.com/1.0/camera"/>
+  <feature name="http://api.phonegap.com/1.0/contacts"/>
+  <feature name="http://api.phonegap.com/1.0/file"/>
+  <feature name="http://api.phonegap.com/1.0/geolocation"/>
+  <feature name="http://api.phonegap.com/1.0/media"/>
+  <feature name="http://api.phonegap.com/1.0/network"/>
+  <feature name="http://api.phonegap.com/1.0/notification"/>
+
+</widget>
